@@ -1,0 +1,11 @@
+/* BASIC STYLES HERE */
+.heading{
+    font-family: 'Square Peg', cursive;
+    font-size: 5em;
+    color: #2784be;
+    text-shadow: 2px 3px 4px black;
+}
+
+.input-lower{
+    transform: translateY(-3);
+}
